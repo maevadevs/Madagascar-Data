@@ -1,7 +1,11 @@
-# Structure
+# Instat
+
+This folder contains the data sourced from [INSTAT](https://www.instat.mg)
+
+## Structure
 
 ```
-- data/instat/
+- instat/
   |--> demography.json
   |   |--> population.national.[year]
   |   |--> population.regional.[region].[year]
