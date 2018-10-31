@@ -1,0 +1,87 @@
+{
+  "regions_count": 22,
+  "regions_list": ["alaotramangoro", "amoronimania", "analamanga", "analanjirofo", 
+    "androy", "anosy", "atsimoandrefana", "atsimoatsinanana", "atsinanana", 
+    "betsiboka", "boeny", "bongolava", "diana", "hautematsiatra", "ihorombe", 
+    "itasy", "melaky", "menabe", "sava", "sofia", "vakinankaratra", 
+    "vatovavyfitovinany"],
+  "length": {
+    "km": 1600
+  },
+  "width": {
+    "km": 570
+  },
+  "area": {
+    "national": {
+      "km2": 587295
+    },
+    "regional": {
+      "alaotramangoro": {
+        "km2": 31948
+      },
+      "amoronimania": {
+        "km2": 16141
+      },
+      "analamanga": {
+        "km2": 16911
+      },
+      "analanjirofo": {
+        "km2": 21930
+      },
+      "androy": {
+        "km2": 19317
+      },
+      "anosy": {
+        "km2": 25731
+      },
+      "atsimoandrefana": {
+        "km2": 66236
+      },
+      "atsimoatsinanana": {
+        "km2": 18863
+      },
+      "atsinanana": {
+        "km2": 21934
+      },
+      "betsiboka": {
+        "km2": 30025
+      },
+      "boeny": {
+        "km2": 31046
+      },
+      "bongolava": {
+        "km2": 16688
+      },
+      "diana": {
+        "km2": 16266
+      },
+      "hautematsiatra": {
+        "km2": 21080
+      },
+      "ihorombe": {
+        "km2": 26391
+      },
+      "itasy": {
+        "km2": 6993
+      },
+      "melaky": {
+        "km2": 38852
+      },
+      "menabe": {
+        "km2": 46121
+      },
+      "sava": {
+        "km2": 25518
+      },
+      "sofia": {
+        "km2": 50100
+      },
+      "vakinankaratra": {
+        "km2": 16599
+      },
+      "vatovavyfitovinany": {
+        "km2": 19605
+      }
+    }
+  }
+}
